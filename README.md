@@ -172,7 +172,3 @@ MLFLOW_TRACKING_URI=http://localhost:5000
 MODEL_REGISTRY_NAME=churn_prediction_model
 RETRAIN_THRESHOLD=0.85
 ```
-
-## 📄 License
-
-MIT License
